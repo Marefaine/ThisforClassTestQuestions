@@ -1,0 +1,15 @@
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\bin\Debug\net6.0\RedoTestQuestions.exe
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\bin\Debug\net6.0\RedoTestQuestions.deps.json
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\bin\Debug\net6.0\RedoTestQuestions.runtimeconfig.json
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\bin\Debug\net6.0\RedoTestQuestions.dll
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\bin\Debug\net6.0\RedoTestQuestions.pdb
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.csproj.AssemblyReference.cache
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.AssemblyInfoInputs.cache
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.AssemblyInfo.cs
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.csproj.CoreCompileInputs.cache
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.dll
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\refint\RedoTestQuestions.dll
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.pdb
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\RedoTestQuestions.genruntimeconfig.cache
+C:\Users\maref\source\repos\RedoTestQuestions\RedoTestQuestions\obj\Debug\net6.0\ref\RedoTestQuestions.dll
